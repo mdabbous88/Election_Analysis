@@ -1,5 +1,5 @@
 # Election_Analysis
-1.Overiew of election audit
+1.Overiew of election audit:
 The purpose of this analysis is to use election data provided in a CSV file to determine the total number of votes in 3 counties in Colorado (Denever, Arapahoe and Jefferson) , voter turnout for each county and their percentages, as well as the largest county turnout and each candidate percentage of votes and their percentages. Lastly, determine the results of the election (winning candidate, number of votes the winner scored and the percentage of the winner's votes). This analysis is required to be sent to the election commission.
 
 2.Election outcomes:
